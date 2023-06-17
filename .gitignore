@@ -1,0 +1,4 @@
+.git-ignore
+.unwanted_DS_Store
+*~
+tmp/
